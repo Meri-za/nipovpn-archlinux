@@ -1,7 +1,7 @@
 # Maintainer: <Meri-za@outlook.com>
 
 pkgname='nipovpn'
-pkgver='1.1.60'
+pkgver='2.1.0'
 pkgrel='1'
 pkgdesc='A powerful proxy tool designed to conceal your HTTP requests within fake HTTP requests. This program, written in C++, leverages the Boost library to handle networking functionalities efficiently.'
 arch=('x86_64')
